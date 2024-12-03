@@ -1,3 +1,5 @@
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 # TimeMetrics
 
 ## Overview
@@ -64,3 +66,4 @@ npm test
 - **Internationalization (I18n)**: Use locales to support multiple languages.
 - **Bootstrap Integration**: Implement Bootstrap for consistent UI styling and layout.
 - **CSS Cleanup**: Refactor and organize CSS for maintainability and reduction of redundancy.
+- **Backend Testing**: Add proper testing to the backend code and APIs, settling with tests at the frontend level for now.
